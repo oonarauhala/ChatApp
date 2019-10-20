@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="set_username">Name</string>
+    <string name="username_string">Enter your username</string>
+    <string name="username_confirm">Send</string>
+</resources>
